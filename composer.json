@@ -1,5 +1,5 @@
 {
-    "name": "pantheon-systems/wordpress-integrations",
+    "name": "pantheon-systems/wordpress-bedrock-integrations",
     "description": "Add this project to any WordPress install based on pantheon-systems/wordpress-bedrock-recommend to enable it for use on Pantheon.",
     "type": "project",
     "license": "MIT",
