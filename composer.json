@@ -5,9 +5,6 @@
     "license": "MIT",
     "version": "1.0.0",
     "require": {
-        "pantheon-systems/pantheon-wp-loader": "*",
-        "pantheon-systems/pantheon-wp-muplugin": "*",
-        "pantheon-systems/pantheon-wp-config": "*",
         "pantheon-systems/quicksilver-pushback": "^2",
         "roots/bedrock": "*",
         "roots/wp-password-bcrypt": "^1.0.0",
