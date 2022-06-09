@@ -7,7 +7,7 @@ error_reporting( E_ALL ^ E_DEPRECATED );
 /**
  * Set root path
  */
-$rootPath = realpath(__DIR__ . '/pantheon-wp-main');
+$rootPath = realpath( __DIR__ . '/..' );
 
 /**
  * Include the Composer autoload
