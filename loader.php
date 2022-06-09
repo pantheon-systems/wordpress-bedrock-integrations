@@ -17,7 +17,7 @@ $mu_plugins = [
 	'bedrock-disallow-indexing/bedrock-disallow-indexing.php',
 	'lh-hsts/lh-hsts.php',
 	'pantheon-advanced-page-cache/pantheon-advanced-page-cache.php',
-	'pantheon-wp-muplugin/pantheon.php',
+	'pantheon-wp-main/pantheon.php',
 	'wp-native-php-sessions/pantheon-sessions.php',
 ];
 
