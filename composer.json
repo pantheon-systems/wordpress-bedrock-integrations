@@ -23,5 +23,13 @@
         "roave/security-advisories": "dev-master",
         "squizlabs/php_codesniffer": "^3.4.0",
         "wp-coding-standards/wpcs": "^1.2.1"
+    },
+    "extra": {
+        "drupal-scaffold": {
+            "loader.php": {
+                "mode": "append",
+                "path": "web/app/mu-plugins/"
+            }
+        }
     }
 }
