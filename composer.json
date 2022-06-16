@@ -27,21 +27,9 @@
     "extra": {
         "drupal-scaffold": {
             "file-mapping": {
-                "web/app/mu-plugins/loader.php": {
-                    "mode": "replace",
-                    "path": "loader.php",
-                    "overwrite": true
-                },
-                "web/wp/pantheon.upstream.yml": {
-                    "mode": "replace",
-                    "path": "pantheon.upstream.yml",
-                    "overwrite": true
-                },
-                "web/wp-cli.yml": {
-                    "mode": "replace",
-                    "path": "wp-cli.yml",
-                    "overwrite": true
-                }
+                "web/app/mu-plugins/loader.php": "loader.php",
+                "web/wp/pantheon.upstream.yml": "pantheon.upstream.yml",
+                "web/wp-cli.yml": "wp-cli.yml"
             }
         }
     }
