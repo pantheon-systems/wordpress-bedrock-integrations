@@ -26,9 +26,11 @@
     },
     "extra": {
         "drupal-scaffold": {
-            "loader.php": {
-                "mode": "append",
-                "path": "web/app/mu-plugins/"
+            "file-mapping": {    
+                "loader.php": {
+                    "mode": "append",
+                    "path": "web/app/mu-plugins/"
+                }
             }
         }
     }
