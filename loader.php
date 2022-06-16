@@ -15,7 +15,7 @@ if ( ( defined( 'WP_INSTALLING' ) && WP_INSTALLING ) ) {
 // Add your mu-plugins here.
 $mu_plugins = [
 	'bedrock-disallow-indexing/bedrock-disallow-indexing.php',
-	'pantheon-wp-main/pantheon.php',
+	'pantheon-mu-plugin/pantheon.php',
 ];
 
 foreach ( $mu_plugins as $file ) {
