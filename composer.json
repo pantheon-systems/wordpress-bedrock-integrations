@@ -27,7 +27,7 @@
     "extra": {
         "drupal-scaffold": {
             "file-mapping": {    
-                "loader.php": {
+                "[web-root]/loader.php": {
                     "mode": "append",
                     "path": "web/app/mu-plugins/"
                 }
