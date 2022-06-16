@@ -3,7 +3,6 @@
     "description": "Add this project to any WordPress install based on pantheon-systems/wordpress-bedrock-recommend to enable it for use on Pantheon.",
     "type": "project",
     "license": "MIT",
-    "version": "1.0.0",
     "require": {
         "pantheon-systems/quicksilver-pushback": "^2",
         "wpackagist-plugin/lh-hsts": "^1.25",
