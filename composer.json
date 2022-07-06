@@ -21,7 +21,7 @@
         "wp-coding-standards/wpcs": "^1.2.1"
     },
     "extra": {
-        "drupal-scaffold": {
+        "composer-scaffold": {
             "file-mapping": {
                 "web/app/mu-plugins/loader.php": "loader.php",
                 "web/wp/pantheon.upstream.yml": "pantheon.upstream.yml",
