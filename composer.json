@@ -24,7 +24,6 @@
         "composer-scaffold": {
             "file-mapping": {
                 "web/app/mu-plugins/loader.php": "loader.php",
-                "web/wp/pantheon.upstream.yml": "pantheon.upstream.yml",
                 "web/wp-cli.yml": "wp-cli.yml"
             }
         }
